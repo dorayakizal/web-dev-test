@@ -21,6 +21,13 @@
     margin-right:30%;
     
 }
+
+@media screen and (max-width: 600px) {
+    .isi {
+        margin: 2%; /* Adjust margin for smaller screens */
+    }
+}
+
 h1{
     
     color:red;
